@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3,
+    "name": "Товар C",
+    "price": 300,
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "ляляля",
+    "price": 150,
+    "quantity": 4989
+  },
+  {
+    "id": 7,
+    "name": "Cola",
+    "price": 200,
+    "quantity": 4998
+  },
+  {
+    "id": 8,
+    "name": "infinity_stone",
+    "price": 10000,
+    "quantity": "inf"
+  },
+  {
+    "id": 9,
+    "name": "f f f",
+    "price": 50,
+    "quantity": 10
+  }
+]
